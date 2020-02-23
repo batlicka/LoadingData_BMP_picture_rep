@@ -1,0 +1,6 @@
+D:\dokumenty\Vojta\UTB\visual_studio_repos\LoadingData_BMP_picture\LoadingData_BMP_picture\bin\Debug\LoadingData_BMP_picture.exe.config
+D:\dokumenty\Vojta\UTB\visual_studio_repos\LoadingData_BMP_picture\LoadingData_BMP_picture\bin\Debug\LoadingData_BMP_picture.exe
+D:\dokumenty\Vojta\UTB\visual_studio_repos\LoadingData_BMP_picture\LoadingData_BMP_picture\bin\Debug\LoadingData_BMP_picture.pdb
+D:\dokumenty\Vojta\UTB\visual_studio_repos\LoadingData_BMP_picture\LoadingData_BMP_picture\obj\Debug\LoadingData_BMP_picture.csprojAssemblyReference.cache
+D:\dokumenty\Vojta\UTB\visual_studio_repos\LoadingData_BMP_picture\LoadingData_BMP_picture\obj\Debug\LoadingData_BMP_picture.exe
+D:\dokumenty\Vojta\UTB\visual_studio_repos\LoadingData_BMP_picture\LoadingData_BMP_picture\obj\Debug\LoadingData_BMP_picture.pdb
