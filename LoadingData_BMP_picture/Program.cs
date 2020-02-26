@@ -22,7 +22,7 @@ namespace LoadingData_BMP_picture
             byte[] buff;
             buff = new byte[(int)numBytes];
             buff = br.ReadBytes((int)numBytes);
-
+            //note
             BMP24 ArrayPic = new BMP24(buff);
             //vypíše první byte souboru na pozici [0]
             Console.Write(ArrayPic.GiveFirst());
@@ -31,3 +31,4 @@ namespace LoadingData_BMP_picture
         }
     }    
 }
+//https://lab.github.com/githubtraining/introduction-to-github
