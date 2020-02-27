@@ -22,15 +22,13 @@ namespace LoadingData_BMP_picture
             byte[] buff;
             buff = new byte[(int)numBytes];
             buff = br.ReadBytes((int)numBytes);
-
+            //note
             BMP24 ArrayPic = new BMP24(buff);
-            //vojtas note
             //vypíše první byte souboru na pozici [0]
             Console.Write(ArrayPic.GiveFirst());
+            
             //FileToByteArray("d:\\dokumenty\\Vojta\\UTB\\visual_studio_repos\\picturesSources\\jednoduchy1.bmp");
         }
     }    
 }
-
-//sources for useful documents
-//https://www.root.cz/clanky/graficky-format-bmp-pouzivany-a-pritom-neoblibeny/
+//https://lab.github.com/githubtraining/introduction-to-github
